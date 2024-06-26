@@ -1,0 +1,13 @@
+div {
+    background-color: #f2f2f2e6;
+    height: 100px;
+    width: 200px;
+}
+h2 {
+    text-align: left;
+    color: #0c954a;
+}
+p {
+    text-align: left;
+    word-break: break-all;
+}
